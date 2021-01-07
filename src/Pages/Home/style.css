@@ -1,9 +1,13 @@
 .home-page{
-    width: 350px;
-    margin: 100px auto;
+    padding: 20px;
+  }
+
+  .home-page-action{
+    width: 300px;
+    margin: 30px auto;
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
